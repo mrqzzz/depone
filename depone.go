@@ -1,5 +1,5 @@
 package depone
 
 func Calculate() string {
-	return "something v0.3.0"
+	return "something v0.4.0"
 }
